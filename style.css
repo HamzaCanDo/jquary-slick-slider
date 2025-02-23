@@ -100,3 +100,13 @@ ul.slick-dots li {
 ul.slick-dots li.slick-active {
     background-color: #29445F;
 }
+
+.single-logo-carousel {
+    padding: 0 10px
+}
+
+.logo-carousel .slick-list {
+
+    margin-left: -10px;
+    margin-right: -10px;
+}
